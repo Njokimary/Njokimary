@@ -2,6 +2,11 @@
 <h1 align="center">Hi 👋, I'm Njoki</h1>
 <h3 align="center">I'm a Software Engineer based in Nairobi, Kenya.</h3>
 
+
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJiN3FwY3AwbnZsZWxtNzRxcjBzc2M3czZlaWR6Z2M2a29jZWl0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
+
 - 🌱 I’m currently learning **Web3 and Blockchain**
 
 - 💬 Ask me about **Fullstack**
