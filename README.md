@@ -1,3 +1,4 @@
+[![MasterHead](https://www.edu360.com.my/images/banners/coding-banner.png)]([https://rishavchanda.io](https://www.cntech.westrift.com/))
 <h1 align="center">Hi 👋, I'm Njoki</h1>
 <h3 align="center">I'm a Software Engineer based in Nairobi, Kenya.</h3>
 
